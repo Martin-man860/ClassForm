@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background: yellowgreen;
+}
+
+input{
+  height: 3vh;
+  width: 20%;
+  border-radius: 15px;
+  padding: 15px;
+  /* margin-right: 200px; */
+  
+}
+
+.one{
+  font-size: 300%;
+  font-style: italic;
+  color:blue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.submit{
+  background-color: blue;
+  color: wheat;
+  width:100px;
+  padding: 15px;
+  text-align: center;
+
+  /* margin-right: 300px; */
+}
